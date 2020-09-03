@@ -99,20 +99,8 @@ p {
     text-align: center;
 }
 
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* combine same style attributes */
+.benefit-lead img, .benefit-brand img, .benefit-cost img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
