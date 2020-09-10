@@ -1,18 +1,13 @@
 ## FIRST PROJECT: HORISEON-CODE-REFACTOR 
 
-#Main purpose: 
-    Always write code clear and organized format.
+Main purpose: :+1:
+>Always write code clear and organized format.
 
-#Requirements:
-    -Links are functioning correctly
-    -Cleaned and organized CSS file
-    -Use semantic tag for organizing codes 
-    -Locate all the elements in logical structure
-    -img tag has alt attributes
-    -heading attributes are in sequential order
-    -Concise, descriptive title in title element
 
 ## Description
+The main purpose of this project is to figure out how to make the code clear and organized. The .html file has been organized with Semantic tag in sequential order. Most of the tags has its short comments for description.  
+Also, it is able to see clearly how the website structure is made up with the basic layout. 
+
 
 ## Table of Contents
 * [Installation](#installation)
@@ -21,10 +16,12 @@
 * [License](#license)
 
 
+## URL 
+1. Deployed URL
+    https://songhee95.github.io/horiseon-code-refactor/
 
-## Installation
-    1. go to my repository named "horiseon-code-refactor
-    2. 
+2. Github Page URL
+    [Github](https://github.com/Songhee95/horiseon-code-refactor)
 
 
 ## Usage
@@ -32,8 +29,10 @@
 ![GitHub Logo](./assets/images/Screenshot2.JPG)
 ![GitHub Logo](./assets/images/Screenshot3.JPG)
 
+
 ## Credits 
-    
+*SEMANTIC ELEMENT reference document link*
+    https://www.w3schools.com/html/html5_semantic_elements.asp
 
 
 ## License
