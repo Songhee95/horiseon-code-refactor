@@ -1,22 +1,19 @@
 ## FIRST PROJECT: HORISEON-CODE-REFACTOR 
 
-Main purpose: :+1:
->Always write code clear and organized format.
-
-
 ## Description
 The main purpose of this project is to figure out how to make the code clear and organized. The .html file has been organized with Semantic tag in sequential order. Most of the tags has its short comments for description.  
 Also, it is able to see clearly how the website structure is made up with the basic layout. 
+>Always write code clear and organized format! :+1:
 
 
 ## Table of Contents
-* [Installation](#installation)
+* [URLs](#URLs)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 
 
-## URL 
+## URLs
 1. Deployed URL
     https://songhee95.github.io/horiseon-code-refactor/
 
