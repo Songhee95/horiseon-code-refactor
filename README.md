@@ -3,7 +3,7 @@
 ## Description
 The main purpose of this project is to figure out how to make the code clear and organized. The .html file has been organized with Semantic tag in sequential order. Most of the tags has its short comments for description.  
 Also, it is able to see clearly how the website structure is made up with the basic layout. 
->Always write code clear and organized format! :+1:
+>Always write code clear and organized format! :star:
 
 
 ## Table of Contents
