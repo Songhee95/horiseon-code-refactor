@@ -28,9 +28,9 @@
 
 
 ## Usage
-    ![GitHub Logo](./assets/images/Screenshot1.JPG)
-    ![GitHub Logo](./assets/images/Screenshot2.JPG)
-    ![GitHub Logo](./assets/images/Screenshot3.JPG)
+![GitHub Logo](./assets/images/Screenshot1.JPG)
+![GitHub Logo](./assets/images/Screenshot2.JPG)
+![GitHub Logo](./assets/images/Screenshot3.JPG)
 
 ## Credits 
     
